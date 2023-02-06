@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+body{
+    padding: 15px;
+}
+
+.head-red{
+    background-color: red;
+    height: 50px;
+}

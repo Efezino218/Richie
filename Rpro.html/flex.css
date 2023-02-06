@@ -1,0 +1,64 @@
+/* WORKING ON THE NAVIGATION BAR */
+
+.container-flex{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+
+}
+
+
+.logo{
+    width: 50px;
+    
+}
+
+.list{
+    display: flex;
+    /* flex-direction: row;
+    margin-top: 30px;
+    text-align: center; */
+} 
+
+nav ul li{
+    color: black;
+}
+
+
+
+
+
+.home{
+    width: 100px;
+    margin-left: 350px;
+}
+
+
+.flight{
+    width: 100px;
+}
+
+
+
+.tours{
+    width: 100px;
+}
+
+
+.visa{
+    width: 100px;
+}
+
+
+
+
+.contact{
+    width: 200px;
+    margin-left: 200px;
+}
+
+
+
+
+

@@ -1,0 +1,148 @@
+.background-image{
+    position: relative;
+    background-image: url(water.jpg);
+    color: red;
+    background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	padding: 150px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+.japa{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+}
+
+
+
+
+
+
+
+
+.first-sec{
+    margin-top: 70px;
+}
+
+.grri{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 60px;
+} 
+
+
+.secure{
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+
+
+
+.latest{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.check{
+    text-align: center;
+}
+
+
+
+
+.second-sec{
+    position: relative;
+    background-image: url(water.jpg);
+    color: red;
+    background-position: center;
+	background-size: cover;
+	padding: 150px;
+    margin-top: 70px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+
+
+
+.travel{
+    position: absolute;
+    bottom: 60px;
+}
+
+
+
+
+
+
+.third-sec{
+    background-color: red;
+    margin-top: 70px;
+    padding-bottom: 150px;
+    padding-top: 60px;
+}
+
+
+
+.quater{
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 25px;
+    
+}
+
+
+
+.first{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.second{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+span{
+    text-decoration: underline;
+}
+
+.third{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .logo{
+    display: flex;
+}  */
+
+
+
